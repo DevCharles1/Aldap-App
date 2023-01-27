@@ -24,4 +24,6 @@ class GoogleMapsServices {
         startAddress: legs['end_address']);
     return route;
   }
+  
+  //you can add the getrequest Api also
 }
